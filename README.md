@@ -21,4 +21,4 @@ Sensors and communication (Arduino-style C, Arduino Uno pinouts).
 Serial Monitor baud rate: 9600.
 
 ## Author
-Your Name - Skill Nexis Internship
+PALURU Santhosh - Skill Nexis Internship
